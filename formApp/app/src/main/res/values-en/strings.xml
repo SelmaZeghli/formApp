@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_firstname">Your firstname</string>
+    <string name="txt_lastname">Your lastname</string>
+    <string name="lbl_info">Please enter your information</string>
+    <string name="txt_phone">Phone number</string>
+    <string name="txt_age">Your age</string>
+    <string name="txt_Domain">Your Area of  Expertise</string>
+    <string name="btn_save">Save</string>
+    <string name="lbl_firstname">Firstname :</string>
+    <string name="lbl_lastname">Lastname :</string>
+    <string name="lbl_phone">Phone number :</string>
+    <string name="lbl_age">Age :</string>
+    <string name="lbl_Domain">Area of Expertise :</string>
+    <string name="confirm_msg">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="click_yes_action">You choose yes</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">formApp</string>
+    <string name="txt_lastname">Votre nom</string>
+    <string name="lbl_info">Veuillez saisir vos informations</string>
+    <string name="txt_phone">Téléphone portable</string>
+    <string name="txt_age">Votre Age</string>
+    <string name="txt_Domain">Votre Domaine de Compétance</string>
+    <string name="txt_password" translatable="false">Mot de passe</string>
+    <string name="txt_confirm_password" translatable="false">Confirmation mot de passe</string>
+    <string name="btn_save">S\'enregistrer</string>
+    <string name="lbl_firstname">Prénom :</string>
+    <string name="lbl_lastname">Nom :</string>
+    <string name="lbl_phone">Téléphone portable :</string>
+    <string name="lbl_age">Age :</string>
+    <string name="lbl_Domain">Domaine de Compétance :</string>
+    <string name="confirm_msg">Confirmer</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="click_yes_action">Votre choix est oui</string>
+    <string name="click_btn_validate" translatable="false">Success</string>
+</resources>
